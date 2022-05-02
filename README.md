@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CuRRt-rb
 - 👀 I’m interested in back end programming
-- 🌱 I’m currently learning HTML and CSS, SQL also Ruby programming language
-- 💞️ I’m looking to collaborate on Ruby programming
+- 🌱 I’m currently learning SQL and Python programming language
+- 💞️ I’m looking to collaborate on Python programming
 - 📫 How to reach me kunigelispaulius@yahoo.com
 
 <!---
